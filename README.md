@@ -29,9 +29,7 @@ Murattal audio (per verse) from Kemenag media; reference format: `001001` = sura
 | `fonts/`              | Optional Arabic/UI fonts (in Drive backup)                       |
 | `*.pdf` (root)        | Optional docs (e.g. Juz Amma methods, mushaf reading guide)      |
 
-`audio/` and `mushaf/` may be omitted from version control due to size (~1 GB total). To generate them locally, use the scripts in the repo (e.g. `scraper.ts`, `ksu.ts`).
-
-**Backup (full dataset):** [Quran-Data on Google Drive](https://drive.google.com/drive/folders/1-kI84TefHznw7IFabzNbZTkIcfIUsg1q?usp=sharing) — folders `audio`, `fonts`, `hadith`, `mushaf`, `quran`, `tafsir`, plus PDFs (Juz Amma, pedoman mushaf). Download to restore or use offline.
+`audio/` and `mushaf/` may be omitted from version control due to size (~1 GB total); for the full dataset (audio, fonts, hadith, mushaf, quran, tafsir, plus PDFs), use the backup: [Quran-Data on Google Drive](https://drive.google.com/drive/folders/1-kI84TefHznw7IFabzNbZTkIcfIUsg1q?usp=sharing) — download to restore or use offline.
 
 ## File Format
 
